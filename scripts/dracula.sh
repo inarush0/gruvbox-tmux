@@ -36,16 +36,16 @@ main()
 
   # Dracula Color Pallette
   white='#fbf1c7'
-  gray='#928374'
-  dark_gray='#504945'
-  light_purple='#d3869b'
+  gray='#665c54'
+  dark_gray='#3c3836'
+  light_purple='#b16286'
   dark_purple='#b16286'
   cyan='#458588'
-  green='#b8bb26'
-  orange='#fe8019'
+  green='#98971a'
+  orange='#d65d0e'
   red='#cc241d'
-  pink='#8ec07c'
-  yellow='#fabd2f'
+  pink='#689d6a'
+  yellow='#d79921'
 
   # Handle left icon configuration
   case $show_left_icon in
